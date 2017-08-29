@@ -292,8 +292,6 @@ end
 
 - drive out other features the same way
 
-- Link to the full application: https://github.com/advanced-rails/09-dealer
-
 ### Controller tests
 
 - `rails g rspec:controller cars`
@@ -313,3 +311,5 @@ RSpec.describe CarsController, type: :controller do
   end
 end
 ```
+
+- Link to the full application: https://github.com/advanced-rails/09-dealer
